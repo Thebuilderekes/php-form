@@ -21,7 +21,7 @@ gap: 2rem;
     <label for="name">
         name 
   <input type="text" name="name" id="name">
-		</labe>
+		</label>
 
 
     <label for="password">
@@ -29,7 +29,7 @@ gap: 2rem;
 <input type="password" name="password" id="password"> 
 		</label>
 
-<input type="submit" value="submit">
+<input type="submit">
 
 </form>	
  </body>
